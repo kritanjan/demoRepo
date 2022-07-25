@@ -1,0 +1,6 @@
+This is new text
+<<<<<<< HEAD:newText.txt
+Okay 
+=======
+another change
+>>>>>>> develop:changed.txt
